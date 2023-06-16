@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tempo
-[//]: " Labs"
+parent: Labs
 ---
 # Lab Name
 Tempo
